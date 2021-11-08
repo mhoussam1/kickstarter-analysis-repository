@@ -40,3 +40,9 @@ The biggest thing that I would talk about for this database is that the number o
 - What are some other possible tables and/or graphs that we could create?
 
 For every database you could use a couple of different graphs that would help show results and to help with the analysis. I think for this challenge a stacked column graph would be used to show a comparison of the outcomes based on the goals set. Another graph would be showing the percentage of success on a bar graph looking at the different months and using the countries which could help get a better understanding and analysis. 
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93894964/140678573-17696a26-501d-4eee-b1f0-222a8c7ea9a6.png)
+
+![outcomes_vs_goals](https://user-images.githubusercontent.com/93894964/140678589-1fccb210-0608-4901-bffe-a11d1921ed61.png)
+
+
